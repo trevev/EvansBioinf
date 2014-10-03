@@ -1,7 +1,7 @@
 #Markdown Cheat Sheet
 Quick reference for Markdown formatting commands
 
-To see the plain text file on Github, Click on the file and select Raw view.
+To see the plain text file on Github, click on the file and select Raw view.
 
 Separate paragraphs with one or more blank lines...
 
@@ -11,7 +11,7 @@ Separate paragraphs with one or more blank lines...
 ##Heading2
 ###Heading3
 
->block quotes<
+>block quotes
 
 *italics*
 **bold**
@@ -23,7 +23,7 @@ Separate paragraphs with one or more blank lines...
 2. lists
 
 1. nested
-  *lists
+  * lists
 
 `monospace format`
 
