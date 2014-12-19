@@ -36,6 +36,6 @@ of monospace
 
 For slightly more detail in explanations, look here: https://help.github.com/articles/markdown-basics/
 
-For even more information, look here: http://daringfireball.net/projects/markdown/syntax
+A more detailed guide to Markdown: https://guides.github.com/features/mastering-markdown/
 
 Remember that Github Flavored Markdown (GFM) differs slightly! https://help.github.com/articles/github-flavored-markdown/
