@@ -1,4 +1,4 @@
-ForkMe
+this is confusing
 ======
 
 A group of simple scripts and documents to practice forking.
