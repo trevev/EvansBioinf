@@ -27,4 +27,4 @@ Friday|8|2|
 Saturday|8|0|
 Sunday|8|0|
 
-@k8hertweck https://help.github.com/articles/renaming-a-repository/
+@k8hertweck, here is the link to the help page you requested: https://help.github.com/articles/renaming-a-repository/
